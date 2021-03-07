@@ -11,7 +11,7 @@ if(user){
     console.log("Condition is true");
 }
 
-var check = "2"
+var check = "2";
 if(2 == check){ //loosely check
     console.log("Conditional check is true");
 }
