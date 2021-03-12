@@ -16,4 +16,4 @@ console.log(user);
 console.log(user.indexOf("subhra.roy@e-arc.com"));
 console.log(user.indexOf("trialUser"));// output -1 i.e element not contains within the arry,
                                        // don't delete it
-console.log(Array.from("Subhra"));
+console.log(Array.from("Subhra")); //Form an array from any input string
